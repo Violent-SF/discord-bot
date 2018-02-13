@@ -4,7 +4,7 @@ psutil
 youtube-dl
 safygiphy
 datetime
-BeautifulSoup
+from html.parser import HTMLParser
 bs4
 urllib.request
 HTMLParser
