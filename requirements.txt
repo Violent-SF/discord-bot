@@ -5,4 +5,3 @@ youtube-dl
 safygiphy
 datetime
 bs4
-urllib.request
