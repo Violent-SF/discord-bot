@@ -2,7 +2,6 @@ discord.py
 requests
 psutil
 youtube-dl
-io
 safygiphy
 datetime
 BeautifulSoup
