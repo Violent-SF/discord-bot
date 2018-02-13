@@ -1,0 +1,13 @@
+discord.py
+requests
+psutil
+youtube-dl
+random
+io
+safygiphy
+datetime
+BeautifulSoup
+bs4
+urllib.request
+HTMLParser
+urlopen
