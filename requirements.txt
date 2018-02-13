@@ -1,7 +1,9 @@
-discord.py
+discord.py[voice] ~= 0.16.0
+pip
 requests
 psutil
-youtube-dl
+youtube_dl
 safygiphy
 datetime
 bs4
+colorlog
